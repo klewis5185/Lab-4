@@ -6,5 +6,6 @@ package edu.pcc.cis.Lab4;
 public class Lab4 {
     public static void main(String[] args) {
         System.out.println("Hello Professor!");
+        System.out.println("I hope this is all working correctly.");
     }
 }
